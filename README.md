@@ -2,5 +2,6 @@
 
 React TypeScript Gym landing page.
 
-Live Demo: 
+Live Demo: https://hii-gym-landingpage.onrender.com/
+
 
